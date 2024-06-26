@@ -16,10 +16,10 @@ function App() {
       </div>
       <h6 className='r'>REACT</h6>
       <footer className='myfoot'>
-        <button className='btn' onClick={() => changeBackgroundColor('cadetblue')}>LBlue</button>
-        <button className='btn' onClick={() => changeBackgroundColor('steelblue')}>Steel</button>
-        <button className='btn' onClick={() => changeBackgroundColor('teal')}>Teal</button>
-        <button className='btn' onClick={() => changeBackgroundColor('palegreen')}>LGreen</button>
+        <button className='btn' onClick={() => changeBackgroundColor('cadetblue')}>B</button>
+        <button className='btn' onClick={() => changeBackgroundColor('steelblue')}>S</button>
+        <button className='btn' onClick={() => changeBackgroundColor('teal')}>T</button>
+        <button className='btn' onClick={() => changeBackgroundColor('palegreen')}>G</button>
       </footer>
     </div>
   );
