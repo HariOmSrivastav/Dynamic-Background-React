@@ -33,10 +33,10 @@
 }
 .btn{
   height: 5vh;
-  width: 6vw;
+  width: 10vw;
   font-size: 3vh;
   background-color: #282c34;
-  color: aquamarine;
+  color: #61dafb;
   border-radius: 0.5vw;
 }
 .myfoot .btn:hover {
